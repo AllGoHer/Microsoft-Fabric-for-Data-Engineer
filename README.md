@@ -56,11 +56,11 @@ Para entrar azure y crear un correo corporativo.
 
 ![image](https://github.com/user-attachments/assets/082ea411-c2b1-4ace-82dd-5b987ea6b5b2)
 
-![image](https://github.com/user-attachments/assets/60ed3869-da8f-4c5a-98dc-1a61f2ba809d)
+![image](https://github.com/user-attachments/assets/bfde9891-841d-4124-bcc9-f283218696a9)
 
 ![image](https://github.com/user-attachments/assets/4dc31017-e529-4857-a317-c8e160a76523)
 
-![image](https://github.com/user-attachments/assets/cba4ab0e-9d7f-41ef-bfcc-cad8bd5db79f)
+![image](https://github.com/user-attachments/assets/3cb36d3c-1a20-4f54-bbb6-d4fa60c9579e)
 
 ![image](https://github.com/user-attachments/assets/d93d57cc-3c96-45c6-b7ce-0094460d00c2)
 
