@@ -35,38 +35,34 @@ Para entrar azure y crear un correo corporativo.
    
 ![image](https://github.com/user-attachments/assets/6defe8a9-0c04-434c-9816-b88b377fbe29)
 
-![image]()
+9.	Luego en buscador de Microsoft Azure escribimos o buscamos fabric.
+    
+![image](https://github.com/user-attachments/assets/a6d9dde9-0911-4114-83ad-bb456570ce00)
 
-![image]()
+10.	Hacemos click en + crear
+    
+![image](https://github.com/user-attachments/assets/4370c3c1-5fa4-4ffb-a171-a89cc66b4ef9)
 
-![image]()
+11.	Luego nos vamos a la página oficial de Microsoft fabric.
+    
+![image](https://github.com/user-attachments/assets/8c0141b9-bb12-4b62-b20b-64d48896e7b6)
 
-![image]()
+12.	Luego pegamos aquí el correo que copiamos.
+    
+![image](https://github.com/user-attachments/assets/f6aaf537-c836-49bf-a3f7-97f5ffa04503)
 
-![image]()
+13.	Ahora, llenamos los datos que nos solicitan.
 
-![image]()
 
-![image]()
+![image](https://github.com/user-attachments/assets/082ea411-c2b1-4ace-82dd-5b987ea6b5b2)
 
-![image]()
+![image](https://github.com/user-attachments/assets/60ed3869-da8f-4c5a-98dc-1a61f2ba809d)
 
-![image]()
+![image](https://github.com/user-attachments/assets/4dc31017-e529-4857-a317-c8e160a76523)
 
-![image]()
+![image](https://github.com/user-attachments/assets/cba4ab0e-9d7f-41ef-bfcc-cad8bd5db79f)
 
-![image]()
+![image](https://github.com/user-attachments/assets/d93d57cc-3c96-45c6-b7ce-0094460d00c2)
 
-![image]()
+![image](https://github.com/user-attachments/assets/506d028b-ff07-4539-92f3-c0e057fd233c)
 
-![image]()
-
-![image]()
-
-![image]()
-
-![image]()
-
-![image]()
-
-![image]()
